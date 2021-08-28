@@ -1,6 +1,6 @@
 # React
 
-This is my journey where I learn and create with React! Down here I will attach links to personal projects, useful links (for me) and tutorials that I will complete.
+This is my journey where I learn and create with React! Down here I will attach links to personal projects, useful links (for me) and tutorials that I have completed.
 
 
 ## Completed tutorials
@@ -10,6 +10,11 @@ This is my journey where I learn and create with React! Down here I will attach 
             <li>
                 <a href="https://github.com/913AliceHincu/projectreact">
                     First project -> Beginner Level
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/913AliceHincu/recipe-app-tutorial">
+                    Recipe app -> Beginner Level
                 </a>
             </li>
         </ul>
@@ -24,4 +29,6 @@ https://code.visualstudio.com/docs/editor/github \
 -- Deployment: \
 https://create-react-app.dev/docs/deployment/ \
 -- Changing the default brach: \
-https://docs.github.com/en/github/administering-a-repository/managing-branches-in-your-repository/changing-the-default-branch
+https://docs.github.com/en/github/administering-a-repository/managing-branches-in-your-repository/changing-the-default-branch \
+-- Web gradients: \
+https://webgradients.com/
