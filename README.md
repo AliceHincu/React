@@ -22,6 +22,16 @@ This is my journey where I learn and create with React! Down here I will attach 
                     Routing -> Beginner Level
                 </a>
             </li>
+            <li>
+                <a href="https://github.com/913AliceHincu/state-management-tutorial">
+                    State management -> Beginner Level
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/913AliceHincu/learn-redux">
+                    Redux -> Beginner Level
+                </a>
+            </li>
         </ul>
     </li>
 </ul>
