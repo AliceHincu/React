@@ -82,3 +82,6 @@ https://www.youtube.com/watch?v=zAbnlisUFZE&list=PL_uozyBhSLnPuJJ1skLSDuF8y2pmDv
 
 -- About DOM \
 https://www.w3schools.com/js/js_htmldom.asp 
+
+-- TypeScript \
+https://www.typescriptlang.org/
