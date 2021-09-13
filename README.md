@@ -85,3 +85,6 @@ https://www.w3schools.com/js/js_htmldom.asp
 
 -- TypeScript \
 https://www.typescriptlang.org/
+
+-- Next.js video \
+https://www.youtube.com/watch?v=MFuwkrseXVE
